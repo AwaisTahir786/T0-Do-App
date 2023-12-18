@@ -23,7 +23,7 @@ function TodoForm({addTodo}:any) {
         onChange={(e) => setVal(e.target.value)
         
         }
-        className="border bg-[#1A1A40] border-[#8758ff] px-6 py-1 rounded-sm bg-bg-[#8758ff] text-white"
+        className="border bg-[#1A1A40] border-[#8758ff] px-6 py-1 rounded-sm bg-bg-[#8758ff] text-white mb-2"
       />
       
       <button
