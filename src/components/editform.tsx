@@ -23,7 +23,7 @@ function EditTodoForm({editTodo, task}:any) {
         onChange={(e) => setVal(e.target.value)
         
         }
-        className="border bg-[#1A1A40] border-[#8758ff] px-6 py-1 rounded-sm text-white"
+        className="border bg-[#1A1A40] border-[#8758ff] px-1 py-1 rounded-sm text-white "
       />
       
       <button
